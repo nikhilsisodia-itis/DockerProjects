@@ -1,0 +1,14 @@
+{
+  "name": "simple-node-calculator",
+  "version": "1.0.0",
+  "description": "A simple Node.js calculator that performs basic arithmetic operations and logs them.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "author": "",
+  "license": "ISC"
+}
